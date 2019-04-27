@@ -173,7 +173,6 @@ describe "ActiveRecord American Gladiator" do
       #        http://stackoverflow.com/questions/8696005/rails-3-activerecord-order-by-count-on-association
 
       expect(most_popular_items).to eq([lights, smoke])
-      
     end
   end
 end
